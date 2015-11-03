@@ -196,7 +196,5 @@ git clone -o booyah :  booyah/master 사용자가 정한 대로 리모트 이름
   * git fetch && git merge 수행
   * pull 명령 보다는 fetch와 merge 명령을 명시적으로 사용
 
-
-
 git diff
 git log
